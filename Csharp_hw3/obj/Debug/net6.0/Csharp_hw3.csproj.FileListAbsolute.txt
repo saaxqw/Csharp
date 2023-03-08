@@ -1,0 +1,15 @@
+C:\Users\afox8\source\repos\Csharp_hw3\Csharp_hw3\obj\Debug\net6.0\Csharp_hw3.csproj.AssemblyReference.cache
+C:\Users\afox8\source\repos\Csharp_hw3\Csharp_hw3\obj\Debug\net6.0\Csharp_hw3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afox8\source\repos\Csharp_hw3\Csharp_hw3\obj\Debug\net6.0\Csharp_hw3.AssemblyInfoInputs.cache
+C:\Users\afox8\source\repos\Csharp_hw3\Csharp_hw3\obj\Debug\net6.0\Csharp_hw3.AssemblyInfo.cs
+C:\Users\afox8\source\repos\Csharp_hw3\Csharp_hw3\obj\Debug\net6.0\Csharp_hw3.csproj.CoreCompileInputs.cache
+C:\Users\afox8\source\repos\Csharp_hw3\Csharp_hw3\bin\Debug\net6.0\Csharp_hw3.exe
+C:\Users\afox8\source\repos\Csharp_hw3\Csharp_hw3\bin\Debug\net6.0\Csharp_hw3.deps.json
+C:\Users\afox8\source\repos\Csharp_hw3\Csharp_hw3\bin\Debug\net6.0\Csharp_hw3.runtimeconfig.json
+C:\Users\afox8\source\repos\Csharp_hw3\Csharp_hw3\bin\Debug\net6.0\Csharp_hw3.dll
+C:\Users\afox8\source\repos\Csharp_hw3\Csharp_hw3\bin\Debug\net6.0\Csharp_hw3.pdb
+C:\Users\afox8\source\repos\Csharp_hw3\Csharp_hw3\obj\Debug\net6.0\Csharp_hw3.dll
+C:\Users\afox8\source\repos\Csharp_hw3\Csharp_hw3\obj\Debug\net6.0\refint\Csharp_hw3.dll
+C:\Users\afox8\source\repos\Csharp_hw3\Csharp_hw3\obj\Debug\net6.0\Csharp_hw3.pdb
+C:\Users\afox8\source\repos\Csharp_hw3\Csharp_hw3\obj\Debug\net6.0\Csharp_hw3.genruntimeconfig.cache
+C:\Users\afox8\source\repos\Csharp_hw3\Csharp_hw3\obj\Debug\net6.0\ref\Csharp_hw3.dll
